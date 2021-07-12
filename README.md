@@ -1,16 +1,14 @@
 ### Hi there 👋
+👋 Welcome!
 
-<!--
-**willchicanoski/willchicanoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here something about me:
 
-Here are some ideas to get you started:
+    💼 I’m currently working at Nordware as .NET Developer
+    💪 I’m enthusiast in .NET, Architecture and Team Leadership
+    ⚡ I'm starting to feed my Github 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me on my social networks:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/douglasfam)](https://github.com/willchicanoski)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasfam/)](https://www.linkedin.com/in/willchicanoski/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/DouglasFam)](https://t.me/willchicanoski)
