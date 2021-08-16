@@ -3,7 +3,7 @@
 
 Here something about me:
 
-    💼 I’m currently working at Nordware as .NET Developer
+    💼 I’m currently working at BRQ as System Analyst
     💪 I’m enthusiast in .NET, Architecture and Team Leadership
     ⚡ I'm starting to feed my Github 
 
